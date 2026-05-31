@@ -16,5 +16,5 @@ kaggle.com/competitions/titanic
 ## Results
 Logistic Regression accuracy : 77.1%
 Decision Tree accuracy       : 77.1%
-Kaggle submission score      : 0.76  ← put your real Kaggle score here
+Kaggle submission score      : 0.76
 
